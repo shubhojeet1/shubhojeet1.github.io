@@ -13,6 +13,7 @@ import {
   FiMapPin,
 } from "react-icons/fi";
 
+
 // companies icons
 import FreelancerBrandIcon from "./assets/img/brands/freelancer.png";
 import UpworkBrandIcon from "./assets/img/brands/upwork.png";
@@ -122,7 +123,9 @@ export const projectsData = [
     category: "TECH STACKS: HTML, Css, Javascript, Advance Css",
     
     
+    
   },
+  
   {
     id: "2",
     image: Project2,
@@ -154,6 +157,7 @@ export const projectsData = [
     category: "web development",
   },
 ];
+
 
 // projects
 export const projectsNav = [
@@ -256,12 +260,12 @@ export const contact = [
     icon: <FiMail />,
     title: "Have a question?",
     subtitle: "I am here to help you.",
-    description: "Email me at hello@youremail.com",
+    description: "Email me at :- jeetduke1234@gmail.com",
   },
   {
     icon: <FiMapPin />,
     title: "Current Location",
-    subtitle: "Bucharest, Romania",
-    description: "Serving clients worldwide",
+    subtitle: "Bokaro steel city, Jharkhand",
+    description: "",
   },
 ];
