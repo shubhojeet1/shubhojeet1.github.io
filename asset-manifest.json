@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/shubhojeet_portfolio/static/css/main.3d6fbe43.css",
+    "main.js": "/shubhojeet_portfolio/static/js/main.7de21a87.js",
+    "static/media/JC.png": "/shubhojeet_portfolio/static/media/JC.bdaec89348a7ced77e4b.png",
+    "static/media/Image.gif": "/shubhojeet_portfolio/static/media/Image.dad52f04d321534e210e.gif",
+    "static/media/Logo.png": "/shubhojeet_portfolio/static/media/Logo.7d2e8dba6d046d41e711.png",
+    "static/media/testimonial-2.webp": "/shubhojeet_portfolio/static/media/testimonial-2.4c1e7c2fe42e548d2e0f.webp",
+    "static/media/p5.webp": "/shubhojeet_portfolio/static/media/p5.40f22911cc8104bfdf42.webp",
+    "static/media/pr1.jpeg": "/shubhojeet_portfolio/static/media/pr1.4c525050c03295a7fb44.jpeg",
+    "static/media/testimonial-3.webp": "/shubhojeet_portfolio/static/media/testimonial-3.677360499dd5a97f022a.webp",
+    "static/media/services.svg": "/shubhojeet_portfolio/static/media/services.0d43785bd1f41e4d0371.svg",
+    "static/media/portfolio.svg": "/shubhojeet_portfolio/static/media/portfolio.bff8b39169bade93c32b.svg",
+    "static/media/testimonials.svg": "/shubhojeet_portfolio/static/media/testimonials.7b59b974ba9e396f2d8e.svg",
+    "static/media/pr2.jpeg": "/shubhojeet_portfolio/static/media/pr2.6e439c4fcd95b2b9c158.jpeg",
+    "static/media/contact.svg": "/shubhojeet_portfolio/static/media/contact.acdd342ba1db0f98c7cd.svg",
+    "static/media/p4.webp": "/shubhojeet_portfolio/static/media/p4.373ffd063f14c91c84c5.webp",
+    "static/media/p6.webp": "/shubhojeet_portfolio/static/media/p6.26fcf4320bfa0eacc03a.webp",
+    "static/media/testimonial-1.webp": "/shubhojeet_portfolio/static/media/testimonial-1.8e05fd5dbc71387931b5.webp",
+    "static/media/about.svg": "/shubhojeet_portfolio/static/media/about.192e39ff229e6eb06083.svg",
+    "index.html": "/shubhojeet_portfolio/index.html",
+    "main.3d6fbe43.css.map": "/shubhojeet_portfolio/static/css/main.3d6fbe43.css.map",
+    "main.7de21a87.js.map": "/shubhojeet_portfolio/static/js/main.7de21a87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d6fbe43.css",
+    "static/js/main.7de21a87.js"
+  ]
+}
