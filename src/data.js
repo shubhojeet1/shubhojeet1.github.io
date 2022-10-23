@@ -130,7 +130,7 @@ export const projectsData = [
     id: "2",
     image: Project2,
     name: "Sephora.nnow.com Clone",
-    category: "TECH STACKS : Reactjs,ChakraUI,Google Firebase,Redux",
+    category: "TECH STACKS : Reactjs,ChakraUI,Firebase,Redux",
   },
   {
     id: "3",
