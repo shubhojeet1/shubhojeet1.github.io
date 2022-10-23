@@ -121,6 +121,9 @@ export const projectsData = [
     image: Project1,
     name: "Lifestylestores.com Clone",
     category: "TECH STACKS: HTML, Css, Javascript, Advance Css",
+    source:"https://github.com/shubhojeet1/tested-bulb-6829.git",
+    live:"https://splendorous-duckanoo-ae27f9.netlify.app/",
+    despo: "Lifestyle is a true omni-channel player with its online store lifestylestores.com where customers can shop from the convenience of their home. 15k+Customers"
     
     
     
@@ -131,12 +134,18 @@ export const projectsData = [
     image: Project2,
     name: "Sephora.nnow.com Clone",
     category: "TECH STACKS : Reactjs,ChakraUI,Firebase,Redux",
+    source:"https://github.com/shubhojeet1/deserted-linen-2376/tree/main/my-app",
+    live:"https://scintillating-dango-a969f1.netlify.app/",
+    despo:"Sephora is a global beauty chain that offers a wide range of classic and emerging brands in makeup, skincare, fragrance, body care and haircare categories"
   },
   {
     id: "3",
     image: Project3,
     name: "Weather App",
     category: "TECH STACKS: HTML, Css, Javascript, Advance Css",
+    source:"https://github.com/masai-course/SHUBHOJEET_fp03_002/commit/0a2bb523a447cd379edbf6c64a21cfbb3f22daba",
+    live:"https://inquisitive-starship-8df0a6.netlify.app/",
+    despo:"This weather app is one of best free weather apps with full features: Local weather, weather map (weather map service) and weather widgets"
   },
   {
     id: "4",

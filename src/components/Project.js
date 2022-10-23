@@ -9,7 +9,7 @@ const Project = ({ item }) => {
       <p className='capitalize text-accent text-sm mb-3'>{item.category}</p>
       <h3 className='text-2xl font-semibold capitalize mb-3'>{item.name}</h3>
       <p className='text-base max-w-md'>
-      Lifestyle is a true omni-channel player with its online store lifestylestores.com where customers can shop from the convenience of their home. 15k+Customers.
+      {item.despo}
       </p>
       <div className='flex flex-row items-center text-center'>
         <button className='mt-16 mr-5 py-3 px-5' style={{"backgroundColor":"green" ,"borderRadius":"10px","color":"#fff"}}><a href={item.source}>Source code</a></button>
