@@ -56,7 +56,7 @@ export const navigation = [
   },
   {
     name: "skills",
-    href: "about ",
+    href: "about",
   },
   {
     name: "project",
@@ -72,7 +72,7 @@ export const navigation = [
   },
   {
     name: "resume",
-    href: "resume",
+    href: "home",
     
   },
 ];
@@ -198,6 +198,37 @@ export const skills = [
   {
     image:
       "https://media0.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.gif?cid=6c09b952f2tzzhgaacs16r6qc70g8s7labhgrwhuicih0wc3&rid=giphy.gif&ct=s",
+  },
+  {
+  image:
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/TypeScript_ESLint_logo.svg/240px-TypeScript_ESLint_logo.svg.png"
+  },
+  {
+    image:"https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Redux.png/240px-Redux.png"
+  },
+  {
+  image  :"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/240px-Bootstrap_logo.svg.png"
+  },
+  {
+    image:"https://cdn4.iconfinder.com/data/icons/logos-3/456/nodejs-new-pantone-black-128.png"
+  },
+  {
+    image:"https://cdn4.iconfinder.com/data/icons/bettericons/354/github-128.png"
+  },
+  {
+   image:"https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"
+  },
+  {
+    image:"https://cdn.iconscout.com/icon/free/png-128/figma-3521426-2944870.png"
+  },
+  {
+    image:"https://keenethics.com/wp-content/uploads/2021/10/Express.js.svg"
+  },
+  {
+    image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQGVV8fOc_D2_vxf1_MrxRuPeF3Y1EFAJrxg&usqp=CAU"
+  },
+  {
+    image:"https://cdn.aglty.io/bwql7jyk/Attachments/NewItems/image_20211214122557_0.png"
   },
   {
     image: SkillImg6,
