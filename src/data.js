@@ -121,7 +121,7 @@ export const projectsData = [
     image: Project1,
     name: "Lifestylestores.com Clone",
     category: "TECH STACKS: HTML, Css, Javascript, Advance Css",
-    source:"https://github.com/shubhojeet1/tested-bulb-6829.git",
+    source:"https://github.com/shubhojeet1/Lifestylestores.com-Clone",
     live:"https://splendorous-duckanoo-ae27f9.netlify.app/",
     despo: "Lifestyle is a true omni-channel player with its online store lifestylestores.com where customers can shop from the convenience of their home. 15k+Customers"
     
@@ -134,7 +134,7 @@ export const projectsData = [
     image: Project2,
     name: "Sephora.nnow.com Clone",
     category: "TECH STACKS : Reactjs,ChakraUI,Firebase,Redux",
-    source:"https://github.com/shubhojeet1/deserted-linen-2376/tree/main/my-app",
+    source:"https://github.com/shubhojeet1/Sephora.nnow.com-Clone",
     live:"https://scintillating-dango-a969f1.netlify.app/",
     despo:"Sephora is a global beauty chain that offers a wide range of classic and emerging brands in makeup, skincare, fragrance, body care and haircare categories"
   },
