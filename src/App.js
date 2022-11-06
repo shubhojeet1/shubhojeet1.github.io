@@ -12,6 +12,7 @@ import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Testimonials from "./components/Testimonials";
 import BackTopBtn from "./components/BackTopBtn";
+import Github from "./components/Github";
 
 
 const App = () => {
@@ -21,13 +22,14 @@ const App = () => {
       <Hero />
       <About />
       <Skills />
+      <Github/>
       <Portfolio />
-       <Brands />
+       {/* <Brands /> */}
       
       
       
-      <Services />
-      <Testimonials />
+      {/* <Services /> */}
+      {/* <Testimonials /> */}
       <Contact />
       <Footer />
       <BackTopBtn /> 

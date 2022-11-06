@@ -147,24 +147,29 @@ export const projectsData = [
     live:"https://inquisitive-starship-8df0a6.netlify.app/",
     despo:"This weather app is one of best free weather apps with full features: Local weather, weather map (weather map service) and weather widgets"
   },
-  {
-    id: "4",
-    image: Project4,
-    name: "project name 4",
-    category: "branding",
-  },
-  {
-    id: "5",
-    image: Project5,
-    name: "project name 5",
-    category: "web development",
-  },
-  {
-    id: "6",
-    image: Project6,
-    name: "project name 6",
-    category: "web development",
-  },
+  // {
+  //  image: <img src="https://github-readme-stats.vercel.app/api?username=shubhojeet1&show_icons=true&locale=en&theme=radical" alt="monumarquis" height="139" />,
+       
+  //  image: <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhojeet1&show_icons=true&locale=en&theme=radical" alt="monumarquis" />,
+  // },
+  // {
+  //   id: "4",
+  //   image: Project4,
+  //   name: "project name 4",
+  //   category: "branding",
+  // },
+  // {
+  //   id: "5",
+  //   image: Project5,
+  //   name: "project name 5",
+  //   category: "web development",
+  // },
+  // {
+  //   id: "6",
+  //   image: Project6,
+  //   name: "project name 6",
+  //   category: "web development",
+  // },
 ];
 
 

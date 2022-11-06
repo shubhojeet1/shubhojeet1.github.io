@@ -1,0 +1,37 @@
+.rdx{
+   margin: auto;
+   background-color: blueviolet;
+   
+}
+.first{
+    margin-left: 30%;
+    padding-top: 5%;
+}
+.second{
+    margin-left: 19%;
+    margin-top: 5%;
+}
+/* @media screen and (min-width: 300px) {
+    .second {
+   margin: auto;
+    }
+    .first{
+        margin: auto;
+    }
+  }
+  
+  @media screen and (min-width: 750px) {
+    
+    .second {
+        margin: auto;
+         }
+         .first{
+             margin: auto;
+         }
+} */
+@media (min-width: 40em) {
+    /* Probably some parent element that limits the img width */
+    main {
+      width: 80%;
+    }
+  }
