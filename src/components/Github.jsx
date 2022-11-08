@@ -6,6 +6,7 @@ import "./Github.css";
 
 const Github = () => {
   return (
+    
      <div className='rdx' >
       <div className='first'>
       <img src="https://github-readme-stats.vercel.app/api?username=shubhojeet1&show_icons=true&locale=en&theme=radical" alt="shubhojeet1" height="139" />
