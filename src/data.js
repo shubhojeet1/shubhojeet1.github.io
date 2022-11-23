@@ -25,8 +25,8 @@ import DribbbleBrandIcon from "./assets/img/brands/dribbble.png";
 import Project1 from "./assets/img/projects/pr1.jpeg";
 import Project2 from "./assets/img/projects/pr2.jpeg";
 import Project3 from "./assets/img/projects/pr3.jpeg";
-import Project4 from "./assets/img/projects/p4.webp";
-import Project5 from "./assets/img/projects/p5.webp";
+import Project4 from "./assets/img/projects/p4.png";
+import Project5 from "./assets/img/projects/p51.webp";
 import Project6 from "./assets/img/projects/p6.webp";
 
 // skills images
@@ -147,6 +147,33 @@ export const projectsData = [
     live:"https://inquisitive-starship-8df0a6.netlify.app/",
     despo:"This weather app is one of best free weather apps with full features: Local weather, weather map (weather map service) and weather widgets"
   },
+  {
+    id: "4",
+    image: Project4,
+    name: "Activity Tracker",
+    category: "TECH STACKS: Reactjs,ChakraUI,Nodejs,Firebase",
+    source:"https://github.com/shubhojeet1/Activity-Tracker-",
+    live:"https://activity-tracker-orpin.vercel.app",
+    despo:"Its a clone of DeskTime where you can track your daily life activity or Manage your time time by using this here you can create any task and set your time according that"
+  },
+  {
+    id: "5",
+    image: Project5,
+    name: "Nordstormrock.com",
+    category: "TECH STACKS: HTML, Css, Javascript, Advance Css",
+    source:"https://github.com/shubhojeet1/Nordstormrock.com",
+    live:"https://extraordinary-licorice-9ea040.netlify.app",
+    despo:"An E-commerce website used to buy Clothes Accessories and Leather equipments, where user can search accessories using  Navbar to go through next pages using import export"
+  },
+  // {
+  //   id: "6",
+  //   image: Project3,
+  //   name: "Weather App",
+  //   category: "TECH STACKS: HTML, Css, Javascript, Advance Css",
+  //   source:"https://github.com/masai-course/SHUBHOJEET_fp03_002/commit/0a2bb523a447cd379edbf6c64a21cfbb3f22daba",
+  //   live:"https://inquisitive-starship-8df0a6.netlify.app/",
+  //   despo:"This weather app is one of best free weather apps with full features: Local weather, weather map (weather map service) and weather widgets"
+  // },
   // {
   //  image: <img src="https://github-readme-stats.vercel.app/api?username=shubhojeet1&show_icons=true&locale=en&theme=radical" alt="monumarquis" height="139" />,
        
