@@ -331,8 +331,9 @@ export const contact = [
   {
     icon: <FiMail />,
     title: "Have a question?",
-    subtitle: "I am here to help you.",
-    description: "Email me at :- jeetduke1234@gmail.com",
+    subtitle: "Reach me at :- 📞 +91 9064129889",
+    description: "Email me at :- ✉️ jeetduke1234@gmail.com",
+    
   },
   {
     icon: <FiMapPin />,
